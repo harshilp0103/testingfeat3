@@ -1,0 +1,4 @@
+lat,lon,address,type,severity,image_path
+37.344139,-121.892231,"1 Washington Sq, San Jose, CA 95192",Storm Drain Blockage,1,
+37.2387121,-121.8124538,"371 Henderson Drive, San Jose, CA, 95123",Storm Drain Blockage,2,
+37.7749,-122.4194,"1 Washington Sq, San Jose, CA 95192",Pipe Burst,1,"flood_images/1_Washington_Sq,_San_Jose,_CA_95192_Pipe Burst.jpg"
